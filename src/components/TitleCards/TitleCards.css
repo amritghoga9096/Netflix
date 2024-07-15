@@ -13,9 +13,9 @@
 
 }
 
-.card-list::-webkit-scrollbar{
+/* .card-list::-webkit-scrollbar{
     display: none;
-}
+} */
 
  .card-list img{
     width: 240px;
