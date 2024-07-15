@@ -9,7 +9,7 @@
 .card-list{
     display: flex;
     gap: 10px;
-    overflow-x: hidden;
+    overflow-x: scroll;
 
 }
 
